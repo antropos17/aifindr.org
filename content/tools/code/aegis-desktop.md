@@ -10,11 +10,12 @@ tags:
   - windows
   - open-source
   - developer-tools
+  - beta
 pricing: free
-price_detail: MIT-licensed monitoring with no subscription; optional Anthropic analysis uses your own API key and provider charges.
+price_detail: MIT-licensed Windows beta with no subscription; optional Anthropic analysis uses your own API key and provider charges.
 platforms:
   - desktop
-status: beta
+status: active
 title: AEGIS – Local AI Agent Desktop Monitor
 meta_description: Inspect local AI-agent processes, configured file activity, TCP endpoints and Claude Code usage in a Windows-first desktop workspace. MIT-licensed beta.
 submitter_site: https://antropos17.github.io/aegis-media/
